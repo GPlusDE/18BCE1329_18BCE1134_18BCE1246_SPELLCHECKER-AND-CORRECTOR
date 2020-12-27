@@ -1,9 +1,9 @@
 # 18BCE1329_18BCE1134_18BCE1246_SPELLCHECKER-AND-CORRECTOR
 # A Project submitted to Dr.Radhikaselvamani
-# 18BCE1329-Jitendra sai
-# 18BCE1134-Dheeraj kannan
-# 18BCE1246-Saandeep
+# by 18BCE1329-Jitendra sai 18BCE1134-Dheeraj kannan 18BCE1246-Saandeep
+
 Introduction:
+
 Spell Check is a process of detecting and sometimes providing suggestions for misspelledly spelled words in a text.
 In computing, Spell Checker is an application program that flags words in a document that may not be spelled correctly.
 Spell Checker may be stand- alone capable of operating on a block a text such as word-processor, electronic dictionary.
@@ -15,7 +15,9 @@ Spell check and correction has been a key part of natural language processing wh
 This topic is used everywhere from normal documents to social networking websites and search engines this concept is used so it made this topic very important for us to take.
 we are exploring Spell Checking, a very important task in any serious NLP pipeline that needs to deal with noisy, misspelled data that has been generatedin the wild.
 
+
 Process:
+
 We had developed a  spellchecking system and an evaluation of its performance.We used Python for completing this. 
 In the first part we created a  parser that can read all the lines of the file abc.txt and print out for each line the original (misspelled) text, the corrected text and the indexes of any changes. The indexes refers to the index of the words in the sentence.
 In the second part we  Calculated the frequency (number of occurrences), ignoring case, of all words and bigrams (sequences of two words) from the corrected training sentences.

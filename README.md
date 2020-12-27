@@ -1,6 +1,9 @@
 # 18BCE1329_18BCE1134_18BCE1246_SPELLCHECKER-AND-CORRECTOR
 # A Project submitted to Dr.Radhikaselvamani
-# by 18BCE1329-Jitendra sai 18BCE1134-Dheeraj kannan 18BCE1246-Saandeep
+# Team members:
+# 18BCE1329-Jitendra sai 
+# 18BCE1134-Dheeraj kannan 
+# 18BCE1246-Saandeep
 
 Introduction:
 
